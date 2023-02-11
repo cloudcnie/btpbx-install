@@ -1,4 +1,4 @@
-##!/bin/sh
+#!/bin/sh
 
 #upgrade the packages
 apt-get update && apt-get upgrade -y
